@@ -4,3 +4,4 @@ opencv-python
 scipy
 torch
 jupyterlab
+ipykernel
